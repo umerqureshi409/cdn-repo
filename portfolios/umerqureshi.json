@@ -41,6 +41,24 @@
       "name": "Node.js",
       "category": "Backend",
       "level": 80
+    },
+    {
+      "id": "1753039248729",
+      "name": "Java",
+      "category": "Other",
+      "level": 70
+    },
+    {
+      "id": "1753039261931",
+      "name": "C++",
+      "category": "Other",
+      "level": 100
+    },
+    {
+      "id": "1753039282494",
+      "name": "HTML5",
+      "category": "Frontend",
+      "level": 97
     }
   ],
   "projects": [
