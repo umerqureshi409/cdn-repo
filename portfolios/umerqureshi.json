@@ -72,6 +72,21 @@
         "Tailwind CSS"
       ],
       "featured": true
+    },
+    {
+      "id": "1753039518849",
+      "title": "Chatrix - AI Powered Chat App ",
+      "description": "Advanced AI chatbot application with real-time messaging, multiple AI models integration, and modern UI/UX design. Features include conversation history",
+      "image": "https://umerqureshi.vercel.app/chatrix.png",
+      "technologies": [
+        "ReactJs",
+        "NextJs",
+        "Firebase",
+        "Agora"
+      ],
+      "githubUrl": "https://github.com/umerqureshi409/Chatrix",
+      "liveUrl": "https://umerchat.vercel.app",
+      "featured": true
     }
   ],
   "experience": [
