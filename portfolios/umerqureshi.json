@@ -94,8 +94,22 @@
       "id": "1",
       "title": "Software Engineer",
       "company": "Tech Company",
-      "duration": "2022 - Present",
+      "duration": "2022 - 2024",
       "description": "Developing modern web applications using React and Node.js.",
+      "current": false
+    },
+    {
+      "id": "1753039676653",
+      "title": "Cyber Security Analyst",
+      "company": "Nadra",
+      "duration": "July 2024 - Present",
+      "description": "At nadra i work as a penetration tester and found many bugs and vulnerabilities in different systems and helped my team to make infrastructure more secure.",
+      "technologies": [
+        "Bash",
+        "Linux",
+        "Kali",
+        "Python"
+      ],
       "current": true
     }
   ],
