@@ -2,16 +2,20 @@
   "id": "umerqureshi",
   "username": "umerqureshi",
   "personal": {
-    "name": "Umerqureshi",
-    "title": "Software Engineer",
-    "bio": "Passionate software engineer with expertise in modern web technologies.",
-    "email": "umerqureshi@example.com",
-    "phone": "+1 (555) 000-0000",
-    "location": "San Francisco, CA"
+    "name": "Umer Qureshi",
+    "title": "Computer System Engineer",
+    "bio": "Passionate System engineer with expertise in modern web technologies and ethical hacking.",
+    "email": "aa1660025@gmail.com",
+    "phone": "03213021673",
+    "location": "Hyderabad , Pakistan",
+    "avatar": "https://umerqureshi.vercel.app/umer.png",
+    "resume": "https://umerqureshi.vercel.app"
   },
   "social": {
-    "github": "https://github.com/umerqureshi",
-    "linkedin": "https://linkedin.com/in/umerqureshi"
+    "github": "https://github.com/umerqureshi409",
+    "linkedin": "https://www.linkedin.com/in/umer-qureshi-526118259",
+    "twitter": "https://twitter.com/umerqureshi409",
+    "website": "https://umerqureshi.vercel.app"
   },
   "skills": [
     {
