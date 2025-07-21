@@ -1,0 +1,73 @@
+{
+  "id": "hunainsha",
+  "username": "hunainsha",
+  "personal": {
+    "name": "Hunainsha",
+    "title": "Software Engineer",
+    "bio": "Passionate software engineer with expertise in modern web technologies.",
+    "email": "hunainsha@example.com",
+    "phone": "+1 (555) 000-0000",
+    "location": "San Francisco, CA"
+  },
+  "social": {
+    "github": "https://github.com/hunainsha",
+    "linkedin": "https://linkedin.com/in/hunainsha"
+  },
+  "skills": [
+    {
+      "id": "1",
+      "name": "JavaScript",
+      "category": "Languages",
+      "level": 90
+    },
+    {
+      "id": "2",
+      "name": "TypeScript",
+      "category": "Languages",
+      "level": 85
+    },
+    {
+      "id": "3",
+      "name": "React",
+      "category": "Frontend",
+      "level": 90
+    },
+    {
+      "id": "4",
+      "name": "Node.js",
+      "category": "Backend",
+      "level": 80
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Modern Portfolio",
+      "description": "A modern, responsive portfolio website built with React and TypeScript.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "featured": true
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "company": "Tech Company",
+      "duration": "2022 - Present",
+      "description": "Developing modern web applications using React and Node.js.",
+      "current": true
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "degree": "Bachelor of Computer Science",
+      "institution": "University",
+      "duration": "2018 - 2022"
+    }
+  ]
+}
