@@ -2,16 +2,20 @@
   "id": "hunainshaikh",
   "username": "hunainshaikh",
   "personal": {
-    "name": "Hunainshaikh",
-    "title": "Software Engineer",
-    "bio": "Passionate software engineer with expertise in modern web technologies.",
-    "email": "hunainshaikh@example.com",
-    "phone": "+1 (555) 000-0000",
-    "location": "San Francisco, CA"
+    "name": "Hunain Shaikh",
+    "title": "Full Stack Developer",
+    "bio": "I'm Muhammad Hunain ,  a dedicated Computer Systems Engineering student at MUET Jamshoro, passionate about leveraging technology to solve real-world problems. My journey in tech spans across multiple domains including cybersecurity, artificial intelligence, and full-stack development.\n\nWith a strong foundation in both theoretical concepts and practical implementation, I strive to create innovative solutions that make a meaningful impact. My expertise ranges from developing secure web applications to implementing AI-powered systems and IoT solutions.",
+    "email": "hunainxyz@gmail.com",
+    "phone": "03333539593",
+    "location": "Hyderabad , Pakistan",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlWSdg1MyOEF-T5TRmgNOs0eeBJ455XwxVOg&s",
+    "resume": "https://umerqureshi.vercel.app"
   },
   "social": {
-    "github": "https://github.com/hunainshaikh",
-    "linkedin": "https://linkedin.com/in/hunainshaikh"
+    "github": "https://github.com/umerqureshi409",
+    "linkedin": "https://www.linkedin.com/in/umer-qureshi-526118259/",
+    "twitter": "https://twitter.com/umerqureshi409",
+    "website": "https://umerqureshi.vercel.app"
   },
   "skills": [
     {
