@@ -41,6 +41,18 @@
       "name": "Node.js",
       "category": "Backend",
       "level": 80
+    },
+    {
+      "id": "1753125481292",
+      "name": "C++",
+      "category": "Other",
+      "level": 98
+    },
+    {
+      "id": "1753125501540",
+      "name": "MySQL",
+      "category": "Database",
+      "level": 76
     }
   ],
   "projects": [
