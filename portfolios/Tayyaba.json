@@ -90,6 +90,18 @@
       "duration": "2022 - Present",
       "description": "Developing modern web applications using React and Node.js.",
       "current": true
+    },
+    {
+      "id": "1753125822763",
+      "title": "DevOps Engineer",
+      "company": "TechMesh",
+      "duration": "July 2023 - August 2025",
+      "description": "I worked as a senior DevOps Engineer at TechMesh.",
+      "technologies": [
+        "Docker",
+        "Kubernetees"
+      ],
+      "current": true
     }
   ],
   "education": [
