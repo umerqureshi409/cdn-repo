@@ -65,6 +65,20 @@
         "TypeScript",
         "Tailwind CSS"
       ],
+      "featured": false
+    },
+    {
+      "id": "1753125717897",
+      "title": "CS MUET Website Redesign",
+      "description": "Modern redesign of Computer Science department website with improved UX, responsive design, and content management system.",
+      "image": "",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "githubUrl": "https://github.com/umerqureshi409/CS.MUET",
+      "liveUrl": "https://github.com/umerqureshi409/umerqureshi/blob/main/public/cs.png",
       "featured": true
     }
   ],
