@@ -1,0 +1,77 @@
+{
+  "id": "aiman",
+  "username": "aiman",
+  "personal": {
+    "name": "Aiman Shamim",
+    "title": "Textile Designer",
+    "bio": "Passionate Textile Designer with expertise in 3d modeling and CLO3d , Photoshop , Illustrator.",
+    "email": "shamimaiman86@gmail.com",
+    "phone": "03166998425",
+    "location": "Hyderabad , Pakistan",
+    "avatar": "https://avatars.githubusercontent.com/u/126456688?v=4",
+    "resume": ""
+  },
+  "social": {
+    "github": "https://github.com/u",
+    "linkedin": "https://linkedin.com/in/u",
+    "twitter": "",
+    "website": ""
+  },
+  "skills": [
+    {
+      "id": "1",
+      "name": "JavaScript",
+      "category": "Languages",
+      "level": 90
+    },
+    {
+      "id": "2",
+      "name": "TypeScript",
+      "category": "Languages",
+      "level": 85
+    },
+    {
+      "id": "3",
+      "name": "React",
+      "category": "Frontend",
+      "level": 90
+    },
+    {
+      "id": "4",
+      "name": "Node.js",
+      "category": "Backend",
+      "level": 80
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Modern Portfolio",
+      "description": "A modern, responsive portfolio website built with React and TypeScript.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "featured": true
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "company": "Tech Company",
+      "duration": "2022 - Present",
+      "description": "Developing modern web applications using React and Node.js.",
+      "current": true
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "degree": "Bachelor of Computer Science",
+      "institution": "University",
+      "duration": "2018 - 2022"
+    }
+  ]
+}
